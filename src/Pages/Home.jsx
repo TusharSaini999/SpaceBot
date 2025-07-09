@@ -11,7 +11,7 @@ const ISROHome = () => {
 
   return (
     <>
-      <div className="relative z-10 px-4 py-8 h-screen flex flex-col items-center justify-center text-center">
+      <div className="relative z-10 px-4 py-8 h-screen flex flex-col items-center justify-center text-center pt-25">
         <div className="mb-16 animate-fade-in-up max-w-7xl w-full">
           {/* Rocket Icon */}
           <div className="flex justify-center mb-8">
@@ -24,7 +24,7 @@ const ISROHome = () => {
           </div>
 
           {/* Title */}
-          <h1 className="text-3xl sm:text-5xl lg:text-7xl font-bold text-white mb-6 bg-gradient-to-r from-orange-400 via-yellow-400 to-red-400 bg-clip-text text-transparent animate-glow">
+          <h1 className="text-3xl sm:text-5xl lg:text-7xl font-bold text-white mb-6 bg-gradient-to-r from-orange-400 via-yellow-400 to-red-400 bg-clip-text  animate-glow">
             SpaceBot ISRO – AI Assistant
           </h1>
 
