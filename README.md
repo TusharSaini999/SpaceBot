@@ -53,4 +53,4 @@ We would like to thank the following:
 
 This project is open source and available under the **MIT License**.
 
-MIT © 2025 — [Tushar Saini](https://github.com/TusharSaini999)
+MIT © 2025 — Tushar Saini
