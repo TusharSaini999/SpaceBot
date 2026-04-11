@@ -54,7 +54,7 @@ This Code of Conduct applies to:
 
 If you experience or witness unacceptable behavior, please report it to the project maintainer:
 
-📧 **Contact:** Tushar Saini (Project Owner)
+📧 **Contact:** Tushar Saini(Project Maintainer)
 
 All complaints will be reviewed and investigated promptly and fairly. Confidentiality will be maintained where possible.
 
